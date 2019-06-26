@@ -20,3 +20,4 @@ which compiles some C++ examples using [emscripten](https://github.com/emscripte
 
 - [wasmer.io](https://wasmer.io/)
 - [wapm.io](https://wapm.io/)
+- [Franziska Hinkelmann, Speed, speed, speed, Javascript vs C vs WebAssembly](https://www.youtube.com/watch?v=7J4u6pnzcqY)
