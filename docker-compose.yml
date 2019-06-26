@@ -1,0 +1,7 @@
+version: '3.7'
+
+services:
+  wasm:
+    build:
+      context: ./wasm
+    ports: ['8080:80']
